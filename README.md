@@ -12,5 +12,3 @@
   <img align="center" alt="jow-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 </div>
   
-   ##
-![snake gif](https://github.com/joaobenedetmachado/joaobenedetmachado/blob/output/github-contribution-grid-snake.svg)
