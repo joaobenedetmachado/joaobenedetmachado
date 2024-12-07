@@ -94,7 +94,6 @@
     "editor.semanticHighlighting.enabled": false,
     "breadcrumbs.enabled": false,
     "workbench.productIconTheme": "fluent-icons",
-    "editor.fontFamily": "JetBrains Mono",
     "gitlens.codeLens.authors.enabled": false,
     "editor.tabSize": 2,
     "security.workspace.trust.untrustedFiles": "newWindow",
@@ -136,7 +135,6 @@
       "itemSize": 32
     },
     "editor.hideCursorInOverviewRuler": true,
-    "editor.minimap.enabled": false,
     "window.titleBarStyle": "native",
     "apc.electron": {
       "titleBarStyle": "hiddenInset",
@@ -238,5 +236,6 @@
     },
     "workbench.settings.applyToAllProfiles": [
       "workbench.colorCustomizations"
-    ]
+    ],
+    "files.autoSave": "afterDelay"
   }
