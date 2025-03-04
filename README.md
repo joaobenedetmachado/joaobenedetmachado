@@ -1,4 +1,7 @@
-## <a style="color: #fff" href="https://joaobenedetdev.netlify.app">João Benedet</a>
+## Hello, I'm João Benedet! 💻
+<a href="https://joaobenedet.com" >https://joaobenedet.com</a>
+
+<!-- ## <a style="color: #fff" href="https://joaobenedetdev.netlify.app">João Benedet</a>
 
 <div style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaobenedetmachado&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
@@ -14,6 +17,6 @@
   <img align="center" alt="jow-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jow-cpp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 </div>
-<div
+<div !-->
 
   
