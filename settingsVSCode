@@ -1,4 +1,5 @@
 {
+    //Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
     "vscode_custom_css.imports": [],
     "animations.Enabled": true,
     "animations.Install-Method": "Custom UI Style",
