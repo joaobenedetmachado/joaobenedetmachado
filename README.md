@@ -1,5 +1,8 @@
-## Hello, I'm João Benedet! 💻
-<a href="https://joaobenedet.com" >https://joaobenedet.com</a>
+### check out my portfolio: <a href="https://joaobenedet.com" >joaobenedet.com</a>
+
+
+<!-- ## Hello, I'm João Benedet! 💻
+<a href="https://joaobenedet.com" >joaobenedet.com</a>
 
 <!-- ## <a style="color: #fff" href="https://joaobenedetdev.netlify.app">João Benedet</a>
 
