@@ -1,5 +1,5 @@
 ### check out my portfolio: <a href="https://joaobenedet.com" >joaobenedet.com</a>
-b.s. in software engineering [1/8]
+b.s. in software engineering [2/8]
 
 <!-- ## Hello, I'm João Benedet! 💻
 <a href="https://joaobenedet.com" >joaobenedet.com</a>
