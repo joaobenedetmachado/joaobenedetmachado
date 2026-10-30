@@ -1,6 +1,9 @@
 ### check out my portfolio: <a href="https://joaobenedet.com">joaobenedet.com</a>
-b.s. in software engineering [2/8]
 <img src="https://img.shields.io/badge/SpaceX-Ambassador-000000?style=flat&logo=spacex&logoColor=white" alt="SpaceX Ambassador" />
+
+
+b.s. in software engineering [2/8]
+
 
 <!-- ## Hello, I'm João Benedet! 💻
 <a href="https://joaobenedet.com" >joaobenedet.com</a>
